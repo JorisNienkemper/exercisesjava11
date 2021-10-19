@@ -8,7 +8,7 @@ import java.util.stream.Stream;
 
 public class ParallelTests {
 
-    public static final int UPPERBOUND = 100_000_000;
+    public static final int UPPERBOUND = 10_000_000;
 
     @Test
     @DisplayName(
